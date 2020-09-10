@@ -1,0 +1,44 @@
+Uri: https://www.palmiracinema.com/
+File Name: c:\Downloaded Web Sites\www.palmiracinema.com\index.htm
+Content Type: text/html
+
+Uri: https://www.palmiracinema.com/uslugi
+File Name: c:\Downloaded Web Sites\www.palmiracinema.com\uslugi.html
+Content Type: text/html
+
+Uri: https://www.palmiracinema.com/dlya-dvoih
+File Name: c:\Downloaded Web Sites\www.palmiracinema.com\dlya-dvoih.html
+Content Type: text/html
+
+Uri: https://www.palmiracinema.com/dlya-kompanii
+File Name: c:\Downloaded Web Sites\www.palmiracinema.com\dlya-kompanii.html
+Content Type: text/html
+
+Uri: https://www.palmiracinema.com/bookings-checkout/свидание-для-двоих-1
+File Name: c:\Downloaded Web Sites\www.palmiracinema.com\bookings-checkout\свидание-для-двоих-1.html
+Content Type: text/html
+
+Uri: https://www.palmiracinema.com/bookings-checkout/свидание-премиум-1
+File Name: c:\Downloaded Web Sites\www.palmiracinema.com\bookings-checkout\свидание-премиум-1.html
+Content Type: text/html
+
+Uri: https://www.palmiracinema.com/bookings-checkout/свидание-для-двоих-teddy
+File Name: c:\Downloaded Web Sites\www.palmiracinema.com\bookings-checkout\свидание-для-двоих-teddy.html
+Content Type: text/html
+
+Uri: https://www.palmiracinema.com/bookings-checkout/почасовая-аренда
+File Name: c:\Downloaded Web Sites\www.palmiracinema.com\bookings-checkout\почасовая-аренда.html
+Content Type: text/html
+
+Uri: https://www.palmiracinema.com/bookings-checkout/пакет-для-компании-расширенный
+File Name: c:\Downloaded Web Sites\www.palmiracinema.com\bookings-checkout\пакет-для-компании-расширенный.html
+Content Type: text/html
+
+Uri: https://www.palmiracinema.com/bookings-checkout/пакет-для-компании
+File Name: c:\Downloaded Web Sites\www.palmiracinema.com\bookings-checkout\пакет-для-компании.html
+Content Type: text/html
+
+Uri: https://www.palmiracinema.com/bookings-checkout/девичник
+File Name: c:\Downloaded Web Sites\www.palmiracinema.com\bookings-checkout\девичник.html
+Content Type: text/html
+
